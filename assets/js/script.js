@@ -30,7 +30,7 @@ const lists = [
             },
 		{
                 title: 'synth',
-                url: 'https://www.portal.synthesis.is',
+                url: 'https://portal.synthesis.is/student/progression',
             },
         ],
     },
