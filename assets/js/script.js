@@ -10,6 +10,10 @@ const lists = [
                 title: 'stack overflow',
                 url: 'https://www.stackoverflow.com/',
             },
+		{
+                title: 'replit',
+                url: 'https://replit.com/~',
+            },
             
         ],
     },
