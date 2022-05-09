@@ -28,6 +28,10 @@ const lists = [
                 title: 'docs',
                 url: 'https://www.docs.google.com/',
             },
+		{
+                title: 'synth',
+                url: 'https://www.portal.synthesis.is',
+            },
         ],
     },
     {
