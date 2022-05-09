@@ -58,11 +58,11 @@ const lists = [
         links: [
            
             {
-                title: 'r/unixporn',
+                title: 'unixporn',
                 url: 'https://www.reddit.com/r/unixporn/',
             },
             {
-                title: 'r/startpages',
+                title: 'startpages',
                 url: 'https://www.reddit.com/r/startpages/',
             },
         ],
