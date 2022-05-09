@@ -8,7 +8,7 @@ const lists = [
             },
             {
                 title: 'stack overflow',
-                url: 'https://www.codewars.com/',
+                url: 'https://www.stackoverflow.com/',
             },
             
         ],
