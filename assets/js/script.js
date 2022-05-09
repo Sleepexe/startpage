@@ -1,79 +1,62 @@
 const lists = [
     {
-        heading: 'dev',
+        heading: '~/dev',
         links: [
             {
                 title: 'github',
                 url: 'https://www.github.com/',
             },
             {
-                title: 'codewars',
+                title: 'stack overflow',
                 url: 'https://www.codewars.com/',
             },
-            {
-                title: 'leetcode',
-                url: 'https://www.leetcode.com/',
-            },
+            
         ],
     },
     {
-        heading: 'work',
+        heading: '~/work',
         links: [
             {
                 title: 'gmail',
                 url: 'https://www.gmail.com/',
             },
             {
-                title: 'linkedin',
-                url: 'https://www.linkedin.com/',
+                title: 'drive',
+                url: 'https://wwww.drive.google.com/',
+            },
+		{
+                title: 'docs',
+                url: 'https://www.docs.google.com/',
             },
         ],
     },
     {
-        heading: 'news',
+      
+    
+        heading: '~/media',
         links: [
             {
-                title: 'habr',
-                url: 'https://habr.com/ru/all/',
-            },
-            {
-                title: 'kod.ru',
-                url: 'https://kod.ru/',
-            },
-            {
-                title: 'tproger',
-                url: 'https://tproger.ru/',
-            },
-            {
-                title: 'proglib',
-                url: 'https://proglib.io/',
-            },
-        ],
-    },
-    {
-        heading: 'media',
-        links: [
-            {
-                title: 'anime',
-                url: 'https://animego.org/',
-            },
-            {
-                title: 'manga',
-                url: 'https://mangalib.me/',
+                title: 'twitch',
+                url: 'https://twitch.tv',
             },
             {
                 title: 'youtube',
                 url: 'https://www.youtube.com/',
             },
+	{
+                title: 'discord',
+                url: 'https://www.discord.com/',
+            },
+	{
+                title: 'spotify',
+                url: 'https://www.spotify.com/',
+            },
         ],
     },
     {
-        heading: 'reddit',
+        heading: '~/reddit',
         links: [
-            {
-                title: 'r/afkarena',
-                url: 'https://www.reddit.com/r/afkarena/',
-            },
+           
             {
                 title: 'r/unixporn',
                 url: 'https://www.reddit.com/r/unixporn/',
@@ -81,10 +64,6 @@ const lists = [
             {
                 title: 'r/startpages',
                 url: 'https://www.reddit.com/r/startpages/',
-            },
-            {
-                title: 'r/linuxmemes',
-                url: 'https://www.reddit.com/r/linuxmemes/',
             },
         ],
     },
